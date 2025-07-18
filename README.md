@@ -2,7 +2,7 @@
 _A user insights investigation conducted at Thumbtack_
 
 ## 🔍 Overview
-Instant bookings — where customers and pros agree in advance on a time and place to get the job done — were experiencing unexpectedly high cancellation rates. When cancelling, users selected from a list of predefined reasons (e.g., “Time no longer works,” “Pro too expensive”) or provided their own explanation via a free-form text box.
+Instant bookings - where customers and pros agree in advance on a time and place to get the job done - were experiencing unexpectedly high cancellation rates. When cancelling, users selected from a list of predefined reasons (e.g., “Time no longer works,” “Pro too expensive”) or provided their own explanation via a free-form text box.
 
 This analysis explored a key question:  
 **Are we missing important user pain points not captured by the predefined options?**
@@ -26,6 +26,6 @@ We applied **Latent Dirichlet Allocation (LDA)**, an unsupervised topic modellin
 - Insights enabled **feature ideation** to focus on most impactful pain points 
 
 ## 📂 Contents
-- `scripts/`: Cleaning, modeling, and visualization scripts
+- `scripts/`: Code
 - `slides/`: Final deck summarizing findings and recommendations (PDF)
 - `README.md`: Overview of the project
